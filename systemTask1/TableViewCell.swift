@@ -9,6 +9,10 @@
 import UIKit
 
 class TableViewCell: UITableViewCell {
+    
+    
+    //mvvm tableview cell
+    
     @IBOutlet var titleLabel: UILabel!
     @IBOutlet var `switch`: UISwitch!
     
